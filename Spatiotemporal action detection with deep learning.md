@@ -12,6 +12,10 @@
 - **[STAGE]**: STAGE: Spatio-Temporal Attention on Graph Entities for Video Action Detection **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1912.04316) [[code]](https://github.com/aimagelab/STAGE_action_detection)
 - **[Structured]**: A Structured Model For Action Detection **[CVPR' 19]** [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Structured_Model_for_Action_Detection_CVPR_2019_paper.pdf)
 - **[Transformer]**: Video Action Transformer Network **[CVPR' 19]** [[pdf]](https://arxiv.org/abs/1812.02707)
+- **[DTN]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 19]**[[pdf]](https://arxiv.org/pdf/1907.01847.pdf)
+- **[ACAM]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1812.11631) [[code]](https://github.com/oulutan/ACAM_Demo)
+- **[AFMSAD]**: Attention Filtering for Multi-person Spatiotemporal Action Detection on Deep Two-Stream CNN Architectures **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1907.12919)
+- **[SAD]**: A Study on Action Detection in the Wild **[arxiv' 19]** [[pdf]](https://arxiv.org/pdf/1904.12993.pdf)
 ### w/o AVA
 - **[Two-in-one]**: Dance with Flow: Two-in-One Stream Action Detection **[CVPR' 19]** [[pdf]](https://arxiv.org/abs/1904.00696) [[code ]](https://github.com/jiaozizhao/Two-in-One-ActionDetection)
 - **[YOWO]**: You Only Watch Once: A Unified CNN Architecture for Real-Time Spatiotemporal Action Localization **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1911.06644) [[code]](https://github.com/wei-tim/YOWO)
@@ -22,7 +26,6 @@
 ## 2018
 ### w/ AVA
 - **[ACRN]**: Actor-Centric Relation Network **[ECCV' 18]** [[pdf]](https://arxiv.org/abs/1807.10982/)
-- **[ACAM]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 18]** [[pdf]](https://arxiv.org/abs/1812.11631) [[code]](https://github.com/oulutan/ACAM_Demo)
 ### w/o AVA
 - **[Capsule]**: VideoCapsuleNet: A Simplified Network for Action Detection **[NeurIPS' 18]** [[pdf]](http://papers.nips.cc/paper/7988-videocapsulenet-a-simplified-network-for-action-detection) [[code]](https://github.com/KevinDuarte/VideoCapsuleNet)
 - **[RTPN]**: Recurrent Tubelet Proposal and Recognition Networks for Action Detection **[ECCV' 18]** [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Dong_Li_Recurrent_Tubelet_Proposal_ECCV_2018_paper.html)
