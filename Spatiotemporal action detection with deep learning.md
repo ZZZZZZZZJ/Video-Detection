@@ -30,6 +30,7 @@
 |**LFB**| - | - | 25.5 | CVPR' 19|
 |**SlowFast**| - | - | 28.2 | ICCV' 19|
 |**Three branches**| - | - | 32.49 | arxiv' 19|
+|**AMP**| 81.8 | 80.5 | - | arxiv' 20 |
 
 
 ## 2020
