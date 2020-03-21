@@ -12,7 +12,7 @@
 - **[STAGE]**: STAGE: Spatio-Temporal Attention on Graph Entities for Video Action Detection **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1912.04316) [[code]](https://github.com/aimagelab/STAGE_action_detection)
 - **[Structured]**: A Structured Model For Action Detection **[CVPR' 19]** [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Structured_Model_for_Action_Detection_CVPR_2019_paper.pdf)
 - **[Transformer]**: Video Action Transformer Network **[CVPR' 19]** [[pdf]](https://arxiv.org/abs/1812.02707)
-- **[DTN]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 19]**[[pdf]](https://arxiv.org/pdf/1907.01847.pdf)
+- **[DTN]**: Deformable Tube Network for Action Detection in Videos **[arxiv' 19]**[[pdf]](https://arxiv.org/pdf/1907.01847.pdf)
 - **[ACAM]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1812.11631) [[code]](https://github.com/oulutan/ACAM_Demo)
 - **[AFMSAD]**: Attention Filtering for Multi-person Spatiotemporal Action Detection on Deep Two-Stream CNN Architectures **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1907.12919)
 - **[SAD]**: A Study on Action Detection in the Wild **[arxiv' 19]** [[pdf]](https://arxiv.org/pdf/1904.12993.pdf)
