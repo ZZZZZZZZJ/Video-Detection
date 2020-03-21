@@ -16,7 +16,7 @@
 - **[ACAM]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1812.11631) [[code]](https://github.com/oulutan/ACAM_Demo)
 - **[AFMSAD]**: Attention Filtering for Multi-person Spatiotemporal Action Detection on Deep Two-Stream CNN Architectures **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1907.12919)
 - **[SAD]**: A Study on Action Detection in the Wild **[arxiv' 19]** [[pdf]](https://arxiv.org/pdf/1904.12993.pdf)
-- **[Three branches]**: Three branches: detecting actions with richer features [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//ava/2019/sjtu_mvig.pdf)
+- **[Three branches]**: Three branches: detecting actions with richer features **[arxiv' 19]** [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//ava/2019/sjtu_mvig.pdf)
 ### w/o AVA
 - **[Two-in-one]**: Dance with Flow: Two-in-One Stream Action Detection **[CVPR' 19]** [[pdf]](https://arxiv.org/abs/1904.00696) [[code ]](https://github.com/jiaozizhao/Two-in-One-ActionDetection)
 - **[YOWO]**: You Only Watch Once: A Unified CNN Architecture for Real-Time Spatiotemporal Action Localization **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1911.06644) [[code]](https://github.com/wei-tim/YOWO)
