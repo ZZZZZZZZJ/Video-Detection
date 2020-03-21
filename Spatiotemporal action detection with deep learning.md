@@ -32,15 +32,6 @@
 |**Three branches**| - | - | 32.49 | **arxiv' 19**|
 
 
-
-- **[Long-bank]**: Long-Term Feature Banks for Detailed Video Understanding **[CVPR' 19]**[[pdf]](https://arxiv.org/abs/1812.05038)[[code]](https://github.com/facebookresearch/video-long-term-feature-banks)
-- **[SlowFast]**: SlowFast Networks for Video Recognition **[ICCV' 19]** [[pdf]](https://arxiv.org/abs/1812.03982)[[code]](https://github.com/facebookresearch/SlowFast)
-- **[STAGE]**: STAGE: Spatio-Temporal Attention on Graph Entities for Video Action Detection **[arxiv' 19]** [[pdf]](https://arxiv.org/abs/1912.04316) [[code]](https://github.com/aimagelab/STAGE_action_detection)
-- **[Three branches]**: Three branches: detecting actions with richer features **[arxiv' 19]** [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//ava/2019/sjtu_mvig.pdf)
-
-
-
-
 ## 2020
 ### w/o AVA
 - **AMP**: Actions as Moving Points **[arxiv' 20]** [[pdf]](https://arxiv.org/pdf/2001.04608.pdf)
