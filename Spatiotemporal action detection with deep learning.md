@@ -27,10 +27,6 @@
 - **[ACAM]**: Actor Conditioned Attention Maps for Video Action Detection **[arxiv' 18]** [[pdf]](https://arxiv.org/abs/1812.11631) [[code]](https://github.com/oulutan/ACAM_Demo)
 - **[RTPN]**: Recurrent Tubelet Proposal and Recognition Networks for Action Detection **[ECCV' 18]** [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Dong_Li_Recurrent_Tubelet_Proposal_ECCV_2018_paper.html)
 
-## 2015 
-- **[Finding]**: Finding Action Tubes **[CVPR' 15]** [[project]](https://gkioxari.github.io/ActionTubes/) [[code]](https://github.com/gkioxari/ActionTubes)
-- **[Track]**: Learning to track for spatio-temporal action localization **[CVPR' 15]** [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Weinzaepfel_Learning_to_Track_ICCV_2015_paper.pdf)
-
 ## 2017
 ### w/ AVA
 - **[ATD]**: Action Tubelet Detector for Spatio-Temporal Action Localization **[ICCV' 17]** [[pdf]](https://arxiv.org/abs/1705.01861) [[code]](https://github.com/imatge-upc/Action-Tubelet-Detection-in-AVA)
@@ -43,4 +39,6 @@
 ## 2016
 - **[Multi-region]**: Multi-region two-stream R-CNN for action detection **[ECCV' 16]** [[pdf]](https://hal.inria.fr/hal-01349107v1/document) [[code]](https://github.com/pengxj/action-faster-rcnn)
 
-
+## 2015 
+- **[Finding]**: Finding Action Tubes **[CVPR' 15]** [[project]](https://gkioxari.github.io/ActionTubes/) [[code]](https://github.com/gkioxari/ActionTubes)
+- **[Track]**: Learning to track for spatio-temporal action localization **[CVPR' 15]** [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Weinzaepfel_Learning_to_Track_ICCV_2015_paper.pdf)
