@@ -31,11 +31,15 @@
 |**SlowFast**| - | - | 28.2 | ICCV' 19|
 |**Three branches**| - | - | 32.49 | arxiv' 19|
 |**AMP**| 81.8 | 80.5 | - | arxiv' 20 |
+|**AlphAction**| 78.8 | - | 29.8| arxiv' 20|
 
 
 ## 2020
+### w/ AVA
+- **AlphAction**: Asynchronous Interaction Aggregation for Action Detection **[arxiv' 20]** [[pdf]](https://arxiv.org/pdf/2004.07485.pdf) [[code]](https://github.com/MVIG-SJTU/AlphAction/tree/master/AlphAction)
+
 ### w/o AVA
-- **AMP**: Actions as Moving Points **[arxiv' 20]** [[pdf]](https://arxiv.org/pdf/2001.04608.pdf)
+- **AMP**: Actions as Moving Points **[arxiv' 20]** [[pdf]](https://arxiv.org/pdf/2001.04608.pdf) [[pdf]](https://arxiv.org/pdf/2004.01494.pdf)
 
 ## 2019
 ### w/ AVA
